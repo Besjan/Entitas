@@ -1,0 +1,12 @@
+{
+  "name": "de.morean.entitas",
+  "version": "1.13.0",
+  "displayName": "Entitas",
+  "description": "",
+  "unity": "2021.3",
+  "unityRelease": "5f1",
+  "author": {
+    "name": "Simon Schmid",
+    "url": "https://github.com/sschmid/Entitas-CSharp"
+  }
+}
