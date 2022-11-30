@@ -1,12 +1,12 @@
 {
-  "name": "com.cuku.entitas",
+  "name": "com.morean.entitas",
   "version": "1.13.0",
   "displayName": "Entitas",
   "description": "",
   "unity": "2018.3",
   "unityRelease": "0f1",
   "author": {
-    "name": "Cuku",
+    "name": "Morean",
     "url": "https://github.com/sschmid/Entitas"
   }
 }
